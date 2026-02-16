@@ -12,6 +12,7 @@
     - paper/
     - plastic/
 - test_images/
+- tf_env
 - Train.py
 - main.py
 
